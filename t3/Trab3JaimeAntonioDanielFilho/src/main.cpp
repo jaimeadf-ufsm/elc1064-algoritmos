@@ -29,7 +29,7 @@
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <algorithm>
+#include <time.h>
 
 #include "gl_canvas2d.h"
 #include "Matrix.h"
@@ -461,6 +461,8 @@ void mouse(int button, int state, int wheel, int direction, int x, int y)
 
 int main(void)
 {
+    srand(time(NULL));
+
     InitializeMatrix(&matrixX, 'x', 4, 4, false, "%.0f");
     InitializeMatrix(&matrixY, 'y', 4, 4, false, "%.0f");
     InitializeMatrix(&matrixZ, 'z', 0, 0, true, "%.2f");

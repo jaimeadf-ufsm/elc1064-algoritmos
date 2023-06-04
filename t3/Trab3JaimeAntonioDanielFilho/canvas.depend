@@ -91,3 +91,32 @@
 
 1685889150 c:\users\jaime\code\la_14_canvas2d_win\trab3jaimeantoniodanielfilho\src\button.h
 
+1685829892 source:c:\users\jaime\code\elc1064-algoritmos\t3\trab3jaimeantoniodanielfilho\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1685829848 c:\users\jaime\code\elc1064-algoritmos\t3\trab3jaimeantoniodanielfilho\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 c:\users\jaime\code\elc1064-algoritmos\t3\trab3jaimeantoniodanielfilho\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\jaime\code\elc1064-algoritmos\t3\trab3jaimeantoniodanielfilho\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\jaime\code\elc1064-algoritmos\t3\trab3jaimeantoniodanielfilho\include\gl\freeglut_ext.h
+	<stdarg.h>
+
