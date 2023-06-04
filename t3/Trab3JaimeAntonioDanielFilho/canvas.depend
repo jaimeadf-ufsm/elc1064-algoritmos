@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1655150461 source:d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1655150407 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1655835771 source:d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"auxiliar.h"
+
+1595874226 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\src\auxiliar.h
+
+1685829892 source:c:\users\jaime\code\la_14_canvas2d_win\trab3jaimeantoniodanielfilho\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1685829848 c:\users\jaime\code\la_14_canvas2d_win\trab3jaimeantoniodanielfilho\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 c:\users\jaime\code\la_14_canvas2d_win\trab3jaimeantoniodanielfilho\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\jaime\code\la_14_canvas2d_win\trab3jaimeantoniodanielfilho\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\jaime\code\la_14_canvas2d_win\trab3jaimeantoniodanielfilho\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1685889238 source:c:\users\jaime\code\la_14_canvas2d_win\trab3jaimeantoniodanielfilho\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	"gl_canvas2d.h"
+	"Matrix.h"
+	"Button.h"
+
+1685889210 c:\users\jaime\code\la_14_canvas2d_win\trab3jaimeantoniodanielfilho\src\matrix.h
+	<limits.h>
+	"NumberBox.h"
+
+1685889179 c:\users\jaime\code\la_14_canvas2d_win\trab3jaimeantoniodanielfilho\src\numberbox.h
+	"Assistant.h"
+
+1685889030 c:\users\jaime\code\la_14_canvas2d_win\trab3jaimeantoniodanielfilho\src\assistant.h
+	"gl_canvas2d.h"
+
+1685889150 c:\users\jaime\code\la_14_canvas2d_win\trab3jaimeantoniodanielfilho\src\button.h
+
