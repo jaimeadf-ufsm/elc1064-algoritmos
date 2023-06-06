@@ -120,3 +120,26 @@
 1426372440 c:\users\jaime\code\elc1064-algoritmos\t3\trab3jaimeantoniodanielfilho\include\gl\freeglut_ext.h
 	<stdarg.h>
 
+1686010273 source:c:\users\jaime\code\elc1064-algoritmos\t3\trab3jaimeantoniodanielfilho\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"gl_canvas2d.h"
+	"Matrix.h"
+	"Button.h"
+
+1686010193 c:\users\jaime\code\elc1064-algoritmos\t3\trab3jaimeantoniodanielfilho\src\matrix.h
+	<limits.h>
+	"NumberBox.h"
+
+1686010213 c:\users\jaime\code\elc1064-algoritmos\t3\trab3jaimeantoniodanielfilho\src\numberbox.h
+	"Assistant.h"
+
+1686010130 c:\users\jaime\code\elc1064-algoritmos\t3\trab3jaimeantoniodanielfilho\src\assistant.h
+	"gl_canvas2d.h"
+
+1686010178 c:\users\jaime\code\elc1064-algoritmos\t3\trab3jaimeantoniodanielfilho\src\button.h
+

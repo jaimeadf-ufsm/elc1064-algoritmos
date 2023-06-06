@@ -46,7 +46,7 @@
 
 #define ZERO_THRESHOLD 0.000001
 
-//variaveis globais
+// variaveis globais
 int windowWidth = 1280, windowHeight = 720;
 
 int operation = OPERATION_MULTIPLY;
@@ -394,8 +394,8 @@ void DrawExpression()
     }
 }
 
-//funcao chamada continuamente. Deve-se controlar o que desenhar por meio de variaveis
-//globais que podem ser setadas pelo metodo keyboard()
+// funcao chamada continuamente. Deve-se controlar o que desenhar por meio de variaveis
+// globais que podem ser setadas pelo metodo keyboard()
 void render()
 {
     if (matrixX.changed || matrixY.changed)
@@ -411,24 +411,23 @@ void render()
     DrawExpression();
 }
 
-//funcao chamada toda vez que uma tecla for pressionada
+// funcao chamada toda vez que uma tecla for pressionada
 void keyboard(int key)
 {
     ProccessMatrixInput(&matrixX, key);
     ProccessMatrixInput(&matrixY, key);
 }
 
-//funcao chamada toda vez que uma tecla for liberada
+// funcao chamada toda vez que uma tecla for liberada
 void keyboardUp(int key)
 {
-   printf("\nLiberou tecla: %d" , key);
+    printf("\nLiberou tecla: %d", key);
 }
 
-
-//funcao para tratamento de mouse: cliques, movimentos e arrastos
+// funcao para tratamento de mouse: cliques, movimentos e arrastos
 void mouse(int button, int state, int wheel, int direction, int x, int y)
 {
-    printf("\nmouse %d %d %d %d %d %d", button, state, wheel, direction,  x, y);
+    printf("\nmouse %d %d %d %d %d %d", button, state, wheel, direction, x, y);
 
     ProccessMatrixMouse(&matrixX, x, y, button, state);
     ProccessMatrixMouse(&matrixY, x, y, button, state);

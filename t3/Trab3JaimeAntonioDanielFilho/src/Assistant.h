@@ -1,6 +1,6 @@
 /*********************************************************************
 // Assistant.h
-// Definição de uma série de funções e constantes auxiliares.
+// Definiï¿½ï¿½o de uma sï¿½rie de funï¿½ï¿½es e constantes auxiliares.
 // *********************************************************************/
 
 #ifndef ASSISTANT_H
@@ -14,13 +14,13 @@
 // Define a cor baseado em valores de 8 bits (0 a 255)
 void Color8(int r, int g, int b)
 {
-	CV::color(r / 255.0f, g / 255.0f, b / 255.0f);
+    CV::color(r / 255.0f, g / 255.0f, b / 255.0f);
 }
 
 // Calcula a largura ocupado por um texto
-float TextLength(const char* text)
+float TextLength(const char *text)
 {
-	return strlen(text) * 8;
+    return strlen(text) * 8;
 }
 
 #endif
