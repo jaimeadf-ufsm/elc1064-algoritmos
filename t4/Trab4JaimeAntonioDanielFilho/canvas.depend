@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1655150461 source:d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1655150407 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1655835771 source:d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"auxiliar.h"
+
+1595874226 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\src\auxiliar.h
+
+1687905602 source:c:\users\jaime\code\la_14_canvas2d_win\meuprograma\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1687784566 c:\users\jaime\code\la_14_canvas2d_win\meuprograma\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 c:\users\jaime\code\la_14_canvas2d_win\meuprograma\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\jaime\code\la_14_canvas2d_win\meuprograma\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\jaime\code\la_14_canvas2d_win\meuprograma\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1687849299 source:c:\users\jaime\code\la_14_canvas2d_win\meuprograma\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"auxiliar.h"
+
+1595874226 c:\users\jaime\code\la_14_canvas2d_win\meuprograma\src\auxiliar.h
+
+1687905602 source:c:\users\jaime\code\elc1064-algoritmos\t4\trab4jaimeantoniodanielfilho\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1687784566 c:\users\jaime\code\elc1064-algoritmos\t4\trab4jaimeantoniodanielfilho\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 c:\users\jaime\code\elc1064-algoritmos\t4\trab4jaimeantoniodanielfilho\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\jaime\code\elc1064-algoritmos\t4\trab4jaimeantoniodanielfilho\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\jaime\code\elc1064-algoritmos\t4\trab4jaimeantoniodanielfilho\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1687907512 source:c:\users\jaime\code\elc1064-algoritmos\t4\trab4jaimeantoniodanielfilho\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"auxiliar.h"
+
+1595874226 c:\users\jaime\code\elc1064-algoritmos\t4\trab4jaimeantoniodanielfilho\src\auxiliar.h
+
