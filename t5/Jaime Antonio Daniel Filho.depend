@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1689133617 source:c:\users\jaime\code\pozzer\jaimeantoniodanielfilho\src\main.cpp
+	<stdio.h>
+	<ctype.h>
+	"mpc_c.h"
+	"text_box.h"
+
+1293061108 c:\users\jaime\code\pozzer\jaimeantoniodanielfilho\include\mpc_c.h
+	<GL/glut.h>
+	"definitions.h"
+
+924731306 c:\users\jaime\code\pozzer\jaimeantoniodanielfilho\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1107063320 c:\users\jaime\code\pozzer\jaimeantoniodanielfilho\include\gl\gl.h
+
+1107063320 c:\users\jaime\code\pozzer\jaimeantoniodanielfilho\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1322682980 c:\users\jaime\code\pozzer\jaimeantoniodanielfilho\include\definitions.h
+
+1689133605 c:\users\jaime\code\pozzer\jaimeantoniodanielfilho\src\text_box.h
+	<stdlib.h>
+	"bounds.h"
+
+1689133523 c:\users\jaime\code\pozzer\jaimeantoniodanielfilho\src\bounds.h
+
